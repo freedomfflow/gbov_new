@@ -67,10 +67,10 @@
 			I still get misty-eyed whenever I see 'Old Glory' pass by.  I love America!  Recently, I created a bumper sticker as a statement of support for our veterans.  Made of premium vinyl, they're only $0.99 apiece -- with big discounts for bulk orders!  Our vets have always been there for us.  Please join me in displaying our support for them!
   		    </p>
                     <p style="text-align: right;">
-                        <img src="/img/GBOVets_sticker.jpg" border="1" height="200px" class="" style="border: 1px solid gray">
+                        <img src="/img/GBOVets_sticker.jpg" border="1" height="200px" class="sticker" style="border: 1px solid gray">
                     </p>
                     <p style="text-align: right;">
-			<span style="font-size: 12px;">Bumper stickers are fade-resistant, glossy vinyl measuring 2.75" x 8.5" &nbsp; &nbsp;</span>
+			<span style="font-size: 12px;">Bumper stickers are removable, glossy vinyl measuring 2.75" x 8.5" &nbsp; &nbsp;</span>
                     </p>
                 </div>
             </div>
@@ -112,6 +112,28 @@
         </div>
     </div>
     <br>
+    <div class="row" style="background-color: whitesmoke;">
+        <div class="col-sm-12">
+	    <h2>The bumper sticker above carries a powerful, up-lifting message!</h2>
+	    <p class="lead">
+		Printed on removable, glossy vinyl -- 2.75" x 8.5" -- this eye-catching item is "made in the USA" and
+		promises <em>unlimited uses</em>, including:
+	    </p>
+	    <p class="lead">
+		<strong><em>
+			&#8226; fundraising  &nbsp; &#8226; media publicity &nbsp; &#8226; promoting membership in veterans organizations &nbsp; &#8226; events<br>
+			&#8226; commemorations (Veteran's Day, &nbsp;Memorial Day, &nbsp;4th of July) &nbsp; &#8226; Thanksgiving &nbsp; &#8226; Christmas
+		</em></strong>
+	    </p>
+	    <p class="lead">
+		-- and at <em><strong>only .35 apiece,</strong></em> these patriotic stickers are even affordable as 'giveaways!'  Let's show our support to all who have served! 
+	    </p>
+	    <p class="lead" style="text-align: center;">
+		No payment up front.  Call or email to order! &nbsp;  (615) 944-2230 &nbsp; &#8226;  &nbsp;<a href="mailto:info@GodBlessOurVets.org">info@GodBlessOurVets.org</a>
+	    </p>
+	</div>
+    </div>
+    <br>
     <div class="row">
         <hr class="featurette-divider">
         <div class="col-sm-12">
@@ -144,13 +166,14 @@
                     </div>
                     <div class="col-md-3">
                         <section class="last">
-                            <img src="/img/honoring-veterans-day_7_1.jpg" width="300px">
-                            <br><br><img src="/img/five-branches.jpeg" width="300px" border=0>
-                            <br><br>
-                            <p>Hail The American Soldier</p>
+                            <h4 style="color: red;">Hail The American Soldier</h4>
                             <audio controls autoplay>
                                 <source src="/files/Hail_The_American_Soldier.mp3" type="audio/mpeg">
                             </audio>
+		  	    <br>
+                            <img src="/img/honoring-veterans-day_7_1.jpg" width="300px">
+                            <br><br><img src="/img/five-branches.jpeg" width="300px" border=0>
+                            <br><br>
                         </section>
                     </div>
                 </div>

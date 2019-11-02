@@ -8,8 +8,8 @@
                     <ul>
                         <li><a href="http://fathergabrielministries.com" target="_new">Father Gabriel Ministries</a></li>
                         <li><a href="http://gabrielmusicgroup.com" target="_new">Gabriel Music Group</a></li>
-                        <li><a href="http://gabrielmusicgroup.com/nsd-records" target="_new">NSD Records</a></li>
-                        <li><a href="http://radioreadytrax.com" target="_new">Radio Ready Trax</a></li>
+                        <!--<li><a href="http://gabrielmusicgroup.com/nsd-records" target="_new">NSD Records</a></li>-->
+                        <li><a href="http://radioreadytracks.com" target="_new">Radio Ready Tracks</a></li>
                         <li><a href="http://www.amazon.com/gp/product/0979315514/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0979315514&linkCode=as2&tag=freedomfflowc-20" target="_new">Secrets to Success in Country Music</a></li>
                         <li><a href="http://godblessallcops.org" target="_blank">God Bless All Cops</a></li>
                 </ul>
@@ -52,7 +52,7 @@
 -->
             </div>
             <div class="col-sm-4">
-                <p class="pull-right">Copyright &copy; GodBlessOurVets.org 2016</p>
+                <p class="pull-right">Copyright &copy; GodBlessOurVets.org 2019</p>
             </div>
         </div>
     </div>
