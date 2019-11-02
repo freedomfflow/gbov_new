@@ -1,0 +1,148 @@
+/* Laravel welcome in-line styling */
+/*html, body {*/
+    /*height: 100%;*/
+/*}*/
+
+body {
+    /*margin: 0;*/
+    /*padding: 0;*/
+    /*width: 100%;*/
+    /*display: table;*/
+    /*font-weight: 100;*/
+    /*font-family: 'Lato';*/
+}
+
+/*.container {*/
+    /*text-align: center;*/
+    /*display: table-cell;*/
+    /*vertical-align: middle;*/
+/*}*/
+/*.content {*/
+    /*text-align: center;*/
+    /*display: inline-block;*/
+/*}*/
+
+/*.title {*/
+    /*font-size: 96px;*/
+/*}*/
+/* End Laravel welcome */
+
+.rowtop {
+    margin-top: 25px;
+}
+.strong {
+    font-weight: bold;
+}
+/* Colors */
+.sticker-red {
+   color: #FE3B25;
+}
+
+.sticker-blue {
+    color: #0E2C77;
+}
+
+.shaded-white {
+    background-color: whitesmoke;
+}
+
+.imageheight:hover {
+    height: 250px !important;
+    z-index: 1;
+    position: relative;
+}
+
+.imageheight2:hover {
+    height: 250px !important;
+    width: 250px !important;
+    z-index: 1;
+    position: relative;
+}
+
+.Error {
+    color: red;
+}
+
+.panel-footer {
+    font-style: italic;
+    font-size: small;
+}
+
+/* Vue Modal styling */
+.modal-mask {
+    position: fixed;
+    z-index: 9998;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+    display: table;
+    transition: opacity .3s ease;
+}
+
+.modal-wrapper {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.modal-container {
+    width: 500px;
+    margin: 0px auto;
+    padding: 20px 30px;
+    background-color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .33);
+    transition: all .3s ease;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.modal-header h3 {
+    margin-top: 0;
+    color: #42b983;
+}
+
+.modal-body {
+    margin: 20px 0;
+}
+
+.modal-default-button {
+    float: right;
+}
+
+/*
+ * the following styles are auto-applied to elements with
+ * v-transition="modal" when their visiblity is toggled
+ * by Vue.js.
+ *
+ * You can easily play with the modal transition by editing
+ * these styles.
+ */
+
+.modal-enter, .modal-leave {
+    opacity: 0;
+}
+
+.modal-enter .modal-container,
+.modal-leave .modal-container {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+/* end vue modal styling */
+
+.sidebar {
+    background-color: lightcyan;
+}
+.sidebar2 {
+    background-color: lightgoldenrodyellow;
+}
+.spacer {
+    width: 100%;
+    min-height: 300px;
+    float: left;
+}
+
+h2 {
+    color: black;
+}
