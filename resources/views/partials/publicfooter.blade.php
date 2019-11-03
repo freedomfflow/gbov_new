@@ -59,7 +59,7 @@
 </div>
 <div class="wrapper row3">
     <footer id="footer" class="clear">
-        <p class="fl_left">Copyright &copy; 2016 - All Rights Reserved - <a href="#">God Bless Our Vets</a></p>
+        <p class="fl_left">Copyright &copy; 2019 - All Rights Reserved - <a href="#">God Bless Our Vets</a></p>
         {{--<p class="fl_right">Template by <a href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>--}}
     </footer>
 </div>

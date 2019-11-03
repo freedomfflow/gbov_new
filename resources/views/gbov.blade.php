@@ -126,7 +126,7 @@
 		</em></strong>
 	    </p>
 	    <p class="lead">
-		-- and at <em><strong>only .35 apiece,</strong></em> these patriotic stickers are even affordable as 'giveaways!'  Let's show our support to all who have served! 
+		and at <em><strong>only .50 apiece</strong></em> -- for military only -- these patriotic stickers are even affordable as 'giveaways!'  Let's show our support to all who have served!
 	    </p>
 	    <p class="lead" style="text-align: center;">
 		No payment up front.  Call or email to order! &nbsp;  (615) 944-2230 &nbsp; &#8226;  &nbsp;<a href="mailto:info@GodBlessOurVets.org">info@GodBlessOurVets.org</a>
