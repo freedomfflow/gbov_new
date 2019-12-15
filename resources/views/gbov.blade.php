@@ -69,9 +69,11 @@
                     <p style="text-align: right;">
                         <img src="/img/GBOVets_sticker.jpg" border="1" height="200px" class="sticker" style="border: 1px solid gray">
                     </p>
+<!--
                     <p style="text-align: right;">
 			<span style="font-size: 12px;">Bumper stickers are removable, glossy vinyl measuring 2.75" x 8.5" &nbsp; &nbsp;</span>
                     </p>
+-->
                 </div>
             </div>
 <!--
@@ -114,7 +116,7 @@
     <br>
     <div class="row" style="background-color: whitesmoke;">
         <div class="col-sm-12">
-	    <h2>The bumper sticker above carries a powerful, up-lifting message!</h2>
+	    <h2>The GOD BLESS OUR VETS bumper sticker carries a powerful, up-lifting message!</h2>
 	    <p class="lead">
 		Printed on removable, glossy vinyl -- 2.75" x 8.5" -- this eye-catching item is "made in the USA" and
 		promises <em>unlimited uses</em>, including:
@@ -126,7 +128,7 @@
 		</em></strong>
 	    </p>
 	    <p class="lead">
-		and at <em><strong>only .50 apiece</strong></em> -- for military only -- these patriotic stickers are even affordable as 'giveaways!'  Let's show our support to all who have served!
+		and at <em><strong>only .49 apiece</strong></em> (price military only) these patriotic stickers are even affordable as 'giveaways!'  Let's show our support to all who have served!
 	    </p>
 	    <p class="lead" style="text-align: center;">
 		No payment up front.  Call or email to order! &nbsp;  (615) 944-2230 &nbsp; &#8226;  &nbsp;<a href="mailto:info@GodBlessOurVets.org">info@GodBlessOurVets.org</a>
